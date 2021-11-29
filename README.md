@@ -54,9 +54,9 @@ resnet18 + augmentation + pseudo_labeling + deep learning : 0.78
 Reference
 -----
 
-agumentation: [Google][augmentation]
-[agumentation]: https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent "Go google"
-agumentation
+
+[agumentation](https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent).
+
  https://github.com/anirudhshenoy/pseudo_labeling_small_datasets/blob/master/pseudo_label-DL.ipynb  
  https://deep-learning-study.tistory.com/563   
  https://dacon.io/competitions/official/235838/codeshare/3778?page=1&dtype=recent  
