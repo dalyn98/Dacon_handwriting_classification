@@ -55,8 +55,7 @@ Reference
 -----
 
 
-[agumentation](https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent).
-
-[pseudo_labeling](https://github.com/anirudhshenoy/pseudo_labeling_small_datasets/blob/master/pseudo_label-DL.ipynb).
+[agumentation](https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent).  
+[pseudo_labeling](https://github.com/anirudhshenoy/pseudo_labeling_small_datasets/blob/master/pseudo_label-DL.ipynb).  
 [Model](https://deep-learning-study.tistory.com/563).
 
