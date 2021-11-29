@@ -1,2 +1,8 @@
-# Dacon_handwriting_classification
-Dacon Classification contest
+ 데이콘 손글씨(숫자) 분류 경진대회
+ ==========
+28x28 image을 분류하는 문제로 
+accuracy 0.788로 410명중 88위를 했습니다
+간단한 문제지만 자기계발 목적으로 진행하였습니다
+
+traning process
+------
