@@ -55,7 +55,7 @@ Reference
 -----
 
 agumentation: [Google][augmentation]
-[agumentation]: https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent 
+[agumentation]: https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent "Go google"
 agumentation
  https://github.com/anirudhshenoy/pseudo_labeling_small_datasets/blob/master/pseudo_label-DL.ipynb  
  https://deep-learning-study.tistory.com/563   
