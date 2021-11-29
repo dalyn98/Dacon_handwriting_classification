@@ -51,3 +51,10 @@ resnet18 + augmentation + pseudo_labeling + deep learning : 0.78
 1위의 accuracy는 0.97  
 상위권 빌더분들의 코드가 공유될경우 업로드하도록 하자  
 
+Reference
+-----
+
+ https://dacon.io/competitions/official/235838/codeshare/3734?page=1&dtype=recent  
+ https://github.com/anirudhshenoy/pseudo_labeling_small_datasets/blob/master/pseudo_label-DL.ipynb  
+ https://deep-learning-study.tistory.com/563   
+ https://dacon.io/competitions/official/235838/codeshare/3778?page=1&dtype=recent  
